@@ -32,8 +32,6 @@
 [EER]: EER.png "ER Diagram"
 
 
-**Query Management Tool:** MySQL Workbench 8.0
-
 ### Project Testing
 Referential integrity was tested & successfully implemented in the operational layer itself
 
